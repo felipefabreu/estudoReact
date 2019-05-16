@@ -12,6 +12,7 @@ class App extends Component {
     <a href="#menu" id="menuLink" className="menu-link">
         
         <span></span>
+        
     </a>
 
     <div id="menu">
